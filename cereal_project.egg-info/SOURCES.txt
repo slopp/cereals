@@ -1,0 +1,12 @@
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+cereal_project/__init__.py
+cereal_project/repository.py
+cereal_project.egg-info/PKG-INFO
+cereal_project.egg-info/SOURCES.txt
+cereal_project.egg-info/dependency_links.txt
+cereal_project.egg-info/requires.txt
+cereal_project.egg-info/top_level.txt
+cereal_project/assets/__init__.py
